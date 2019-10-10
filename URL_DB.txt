@@ -1,4 +1,2 @@
-http://www.jikokuhyo.co.jp/search/detail/line_is/kansai_hankyukyoto
-http://www.jikokuhyo.co.jp/search/detail/line_is/kansai_keihan
+http://www.jikokuhyo.co.jp/search/detail/line_is/kanto_chuokaisoku
 http://www.jikokuhyo.co.jp/search/detail/line_is/kansai_jrkyoto
-http://www.jikokuhyo.co.jp/search/detail/line_is/kansai_nara
